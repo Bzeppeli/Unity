@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Agora_vai_mesmo1.unity
+  isLoaded: 1
+  isActive: 1
